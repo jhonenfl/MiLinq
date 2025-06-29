@@ -1,0 +1,53 @@
+﻿# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.app
+*.pdb
+*.cache
+*.log
+
+# VS Code / VS IDE settings
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Dotnet CLI
+*.props
+*.targets
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.sln.ide
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Rider
+.idea/
+
+# Local secrets
+secrets.json
