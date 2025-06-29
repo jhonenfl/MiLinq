@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MiLinq</id>
+    <version>1.0.0</version>
+    <authors>Jhon Dev</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Operadores LINQ personalizados para .NET</description>
+    <tags>LINQ Extensions Functional</tags>
+    <repository type="git" url="https://github.com/jhonenfl/MiLinq" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ASUS\source\repos\Testeo\MiLinq\bin\Release\net8.0\MiLinq.dll" target="lib\net8.0\MiLinq.dll" />
+  </files>
+</package>
