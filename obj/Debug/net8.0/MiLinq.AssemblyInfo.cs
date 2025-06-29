@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Operadores LINQ personalizados para .NET")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836ae120ad5cee7812f8c5a8610129c59c5a7adc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1574216014fbecb96025ae7e4afe2f58434aba26")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

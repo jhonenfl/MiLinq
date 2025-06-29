@@ -9,3 +9,4 @@ C:\Users\ASUS\source\repos\Testeo\MiLinq\obj\Debug\net8.0\MiLinq.dll
 C:\Users\ASUS\source\repos\Testeo\MiLinq\obj\Debug\net8.0\refint\MiLinq.dll
 C:\Users\ASUS\source\repos\Testeo\MiLinq\obj\Debug\net8.0\MiLinq.pdb
 C:\Users\ASUS\source\repos\Testeo\MiLinq\obj\Debug\net8.0\ref\MiLinq.dll
+C:\Users\ASUS\source\repos\Testeo\MiLinq\obj\Debug\net8.0\MiLinq.sourcelink.json
